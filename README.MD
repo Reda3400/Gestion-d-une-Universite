@@ -25,6 +25,6 @@ apres building your code
 3 - push to your branche
 
 ```bash
-git push -u origin js/your_section_your_name
+git push -u origin JS/your_section_your_name
 
 ```
